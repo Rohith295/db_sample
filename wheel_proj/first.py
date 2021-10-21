@@ -1,3 +1,3 @@
 class First(object):
-      def __init__():
+      def __init__(self):
           print("You have instantiated the object of First class")

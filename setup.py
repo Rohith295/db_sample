@@ -1,6 +1,7 @@
 from setuptools import setup
 from wheel_proj import __version__
 
+
 with open("requirements.txt") as f:
     requirements = f.read().split()
 
